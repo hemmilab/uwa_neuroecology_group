@@ -87,7 +87,7 @@
 	display: none;
 	ul {
 		position: absolute;
-		left: 10;
+		left: 20;
 	}
 	@include media($small) {
 		@include span-columns(12);
