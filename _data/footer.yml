@@ -1,8 +1,8 @@
 # Footer navigation links
 
-- title: Twitter
-  url: https://twitter.com/hemmi_lab
-  icon: Twitter_Social_Icon_Circle_Color.svg
+#- title: Twitter
+#  url: https://twitter.com/hemmi_lab
+#  icon: Twitter_Social_Icon_Circle_Color.svg
   
 - title: GitHub
   url: https://github.com/janhemmi
