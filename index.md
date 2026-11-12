@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Location</h2>
-  <p class="post-excerpt">We are based at the University of Western Australia. Our research team is part of the <a href="http://www.science.uwa.edu.au/schools/biological-sciences" target="_blank"> School of Biological Sciences</a> and the <a  <a href="http://www.oceans.uwa.edu.au" target="_blank"> UWA Oceans Institute</a>.<br><br>We are located in the Zoology building on the Crawley campus</p>
+  <p class="post-excerpt">We are based at the University of Western Australia. Our research team is part of the <a href="http://www.science.uwa.edu.au/schools/biological-sciences" target="_blank"> School of Biological Sciences</a> and the  <a href="http://www.oceans.uwa.edu.au" target="_blank"> UWA Oceans Institute</a>.<br><br>We are located in the Zoology building on the Crawley campus</p>
 </div><!-- /.tile -->
 
 <div class="tile">
