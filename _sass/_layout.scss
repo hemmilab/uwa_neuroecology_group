@@ -88,6 +88,7 @@
 	ul {
 		position: absolute;
 		left: 20;
+    list-style-type: none;
 	}
 	@include media($small) {
 		@include span-columns(12);
