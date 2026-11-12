@@ -9,7 +9,7 @@ image:
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title">Address</h2>
-  <p class="post-excerpt"><img src='/images/icons/building-regular.svg' width="15px"> School of Biological Sciences<br>The University of Western Australia (M092)<br>35 Stirling Hwy, Crawley WA 6009</p>
+  <p class="post-excerpt"><img src='{{site.baseurl}}/images/icons/building-regular.svg' width="15px"> School of Biological Sciences<br>The University of Western Australia (M092)<br>35 Stirling Hwy, Crawley WA 6009</p>
 </div><!-- /.tile -->
   
 <!--<div class="tile">
@@ -20,7 +20,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">GitHub</h2>
-  <p class="post-excerpt"><a href="https://github.com/janhemmi" target="_blank"><img src='/images/icons/github-brands.svg' width="82" height="86"></a></p>
+  <p class="post-excerpt"><a href="https://github.com/janhemmi" target="_blank"><img src='{{site.baseurl}}/images/icons/github-brands.svg' width="82" height="86"></a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
