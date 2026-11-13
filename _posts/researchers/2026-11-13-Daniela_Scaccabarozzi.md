@@ -1,0 +1,37 @@
+---
+layout: article
+title: "Daniela Scaccabarozzi"
+categories: researchers
+tags: [researchers]
+excerpt: "Adjunct Research Fellow"
+image:
+  feature: 
+  teaser: people/xx.png
+  thumb: people/xx.png
+---
+<img class="philprofile" src= "{{site.baseurl}}/images/people/xx.png'"  align='right' width="350" hspace="20" vspace="10">
+
+
+## Research
+xx
+
+## Contact
+<img src="{{site.baseurl}}/images/icons/building-regular.svg" width="15px">
+School of Biological Sciences (M092)<br>
+35 Stirling Highway, Crawley WA 6009
+
+<img src="{{site.baseurl}}/images/icons/envelope-regular.svg" width="15px"> <a href="mailto:daniela.scaccabarozzi@.uwa.edu.au"> daniela.scaccabarozzi@uwa.edu.au</a><br>
+<img src="{{site.baseurl}}/images/icons/phone-solid.svg" width="15px"> +61x xxxx xxxx<br>
+
+## Publications
+<img src="{{site.baseurl}}/images/icons/google-brands.svg" width="15px"> <a href="https://scholar.google.com/citations?user=-iieTEMAAAAJ&hl=en">Google Scholar</a><br>
+
+## UWA Research Repository
+example <img src="{{site.baseurl}}/images/icons/uwa.png" width="15px"> <a href="https://research-repository.uwa.edu.au/en/persons/daniela-scaccabarozzi/"> UWA Repository</a><br>
+
+## UWA ResearchGate
+example <img src="{{site.baseurl}}/images/icons/researchgate.svg" width="15px"> <a href="https://www.researchgate.net/profile/Daniela-Scaccabarozzi"> ResearchGate</a><br>
+
+
+## About me
+xx
