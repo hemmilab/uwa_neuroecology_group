@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Emily Edmundson"
-categories: phd-students
+categories: researchers
 tags: [phd-students]
 excerpt: "PhD Student"
 image:
