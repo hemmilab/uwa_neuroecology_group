@@ -7,7 +7,7 @@ This site is implemented using Jekyll and Ruby, which dynamically links and arra
 
 New items for people, projects etc. are called 'posts'.
 
-# adding new posts
+# Adding new posts
 1. Go into the _posts folder and find the folder for the category you want to add it to (e.g. staff or students).
 NOTE: the folder in the base directory is NOT the correct one. These only contain information for the parent page (index.md) that will display the posts in a grid.
 
