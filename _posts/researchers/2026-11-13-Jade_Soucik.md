@@ -20,7 +20,7 @@ xx
 School of Biological Sciences (M092)<br>
 35 Stirling Highway, Crawley WA 6009
 
-<img src="{{site.baseurl}}/images/icons/envelope-regular.svg" width="15px"> <a href="mailto:jade.soucik@research.uwa.edu.au"> jade.soucik@research.uwa.edu.au</a><br>
+<img src="{{site.baseurl}}/images/icons/envelope-regular.svg" width="15px"> <a href="mailto:23724552@student.uwa.edu.au"> 23724552@student.uwa.edu.au</a><br>
 <img src="{{site.baseurl}}/images/icons/phone-solid.svg" width="15px"> +61x xxxx xxxx<br>
 
 ## Publications
