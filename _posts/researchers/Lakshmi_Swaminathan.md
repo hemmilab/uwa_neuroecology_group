@@ -2,7 +2,7 @@
 layout: article
 title: "Lakshmipriya Swaminathan"
 categories: researchers
-tags: [phd-students]
+tags: [researchers]
 excerpt: "Postdoctoral researcher"
 image:
   feature: 
