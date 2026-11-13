@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Lakshmipriya Swaminathan"
+title: "Lakshmi Swaminathan"
 categories: researchers
 tags: [researchers]
 excerpt: "Postdoctoral researcher"
