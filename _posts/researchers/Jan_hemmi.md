@@ -1,0 +1,47 @@
+---
+layout: article
+title: "Jan Hemmi"
+categories: researchers
+tags: [researchers]
+excerpt: "Group leader2"
+image:
+  feature: 
+  teaser: /people/jan_hemmi_5x4_500.png
+  thumb: /people/jan_hemmi_5x4_500.png
+---
+<!-- works   <img class="philprofile" src= "{{'/images/5x8_Julia.png' | prepend: site.url }}" align='right' width="350" hspace="20" vspace="10"> -->
+<!-- works   <img src='https://janhemmi.github.io/hemmi_lab/images/5x8_Jon.png' align='right' width="350" hspace="20" vspace="10"/> -->
+<!-- works   <img class="philprofile" src= "{{'/images/people/Jan_Hemmi_5_4.png' | prepend: site.baseurl }}"  align='right' width="350" hspace="20" vspace="10"> -->
+<!-- does not work <img class="philprofile" src= "{{'/images/Jan_Hemmi_5_4.png'}}"  align='right' width="350" hspace="20" vspace="10"> -->
+<!-- does not work <img class="philprofile" src= '/../master/images/5x8_Jon.png'  align='right' width="350" hspace="20" vspace="10"> -->
+<!-- <img class="philprofile" src= "{{site.baseurl}}/images/people/jan_hemmi_5_4.png"  align='right' width="350" hspace="20" vspace="10"> -->
+<!-- <img class="philprofile" src= "{{site.baseurl}}/images/people/jan_hemmi_5_4_1.png"  align='right' width="350" hspace="20" vspace="10"> -->
+<!-- <img class="philprofile" src= "{{site.baseurl}}/images/people/jan_hemmi_5x4_500_1.png"  align='right' width="350" hspace="20" vspace="10"> -->
+<!-- <img class="philprofile" src= "{{site.baseurl}}/images/people/jan_hemmi_5x4_500_2.png"  align='right' width="350" hspace="20" vspace="10"> -->
+<!--missing <img class="philprofile" src= "{{site.baseurl}}/images/people/jan_hemmi_5x4_500_3.png"  align='right' width="35" hspace="20" vspace="10"> -->
+<img class="philprofile" src= "{{site.baseurl}}/images/people/jan_hemmi_5x4_500_4.png"  align='right' width="350" hspace="20" vspace="10"> 
+
+
+## Research
+Our research focuses on the interaction between sensory processing and the control of behaviour. Much of our work is comparative and involves a range of different animals ranging from mammals to invertebrates, wallabies, dunnerts, crocodiles, lizards, sharks, fishes, beetles, ants, deep sea amphipods, and crabs. We aim to understand the evolution of animal eyes and how different eye designs enable and limit the behavioural options animals have when they navigate and interact with an ever changing world. The long term goal is to better understand efficient processing algorithms as they can be employed in a varity of autonomous platforms.  
+
+## Contact
+<img src="{{site.baseurl}}/images/icons/building-regular.svg" width="15px">
+School of Biological Sciences (M092)<br>
+35 Stirling Highway, Crawley WA 6009
+
+<img src="{{site.baseurl}}/images/icons/envelope-regular.svg" width="15px"> <a href="mailto:jan.hemmi@uwa.edu.au"> jan.hemmi@uwa.edu.au</a><br>
+<img src="{{site.baseurl}}/images/icons/phone-solid.svg" width="15px"> +618 6488 3317<br>
+
+## Publications
+<img src="{{site.baseurl}}/images/icons/google-brands.svg" width="15px"> <a href="https://scholar.google.com.au//citations?user=tWEgycEAAAAJ&hl=en">Google Scholar</a><br>
+
+## UWA Research Repository
+<img src="{{site.baseurl}}/images/icons/uwa.png" width="15px"> <a href="https://research-repository.uwa.edu.au/en/persons/jan-hemmi"> UWA Repository</a><br>
+
+## UWA ResearchGate
+<img src="{{site.baseurl}}/images/icons/researchgate.svg" width="15px"> <a href="https://www.researchgate.net/profile/Jan_Hemmi"> ResearchGate</a><br>
+
+
+## About me
+I was born and brought up in Switzerland where I studied biology at the University of Zürich with a focus on Ethology (animal behaviour). At that time I was particularly interested in cognitive and social processes in primates and horses. In 1994 I came to Australia to do my PhD in the Developmental Neurobiology group at the ANU. My project explored the relationship between the structure and function of the tammar wallaby's visual system. The unusual photoreceptor topography I observed in these animals sparked my interest in visual ecology. After the completion of my PhD I joined the Visual Sciences group (ANU) where I began work on the ecology of visual information processing in fiddler crabs. I joined UWA in 2012 to work on the visual control of behaviour in fiddler crabs. The relationship between sensory processing and animal behaviour is the main focus of my research group. Much of our work is highly comparative and involves a range of different animals. We work on ants and crabs to crocodiles, lizards, fish, sharks and dunnarts.
